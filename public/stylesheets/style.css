@@ -3,8 +3,8 @@
 }
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: black;
-  color: white;
+  background-color: #222222;
+lor: #131313;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,15 +19,15 @@ body {
 .card {
   border: 1px solid #1b1b1b;
   border-radius: 16px;
-  background-color: #222222;
-  padding: 32px 24px; 
+  background-color: #f1f1f1;
+  padding: 32px 32px; 
 }
 .card-img {
-  width: 150px;
+  width: 300px;
 }
 .card-title {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 700;
   margin-bottom: 24px;
 }
 .card-text {
@@ -40,7 +40,7 @@ body {
   border: none;
 }
 .card-btn {
-  background-color: #ffce45;
+  background-color: #8659D9;
   color: white;
   padding: 8px 16px;
   border-radius: 8px;
